@@ -90,6 +90,7 @@ def main():
     window.close_on_mouse_click()
 
 
+
 def jump_and_move_turtle(x1, y1, x2, y2):
     """
     Constructs a thick, slow, magenta SimpleTurtle.
